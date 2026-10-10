@@ -1,0 +1,14 @@
+{
+  "name": "Impara l'italiano",
+  "short_name": "Italiano",
+  "description": "Aprenda italiano do zero com lições curtas, áudio e revisão espaçada.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f4ef",
+  "theme_color": "#0f8a4f",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

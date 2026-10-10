@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#ffffff"/>
+  <path d="M112 0h59v512h-59a112 112 0 0 1-112-112V112A112 112 0 0 1 112 0z" fill="#0f8a4f"/>
+  <path d="M341 0h59a112 112 0 0 1 112 112v288a112 112 0 0 1-112 112h-59z" fill="#c8323c"/>
+  <text x="256" y="330" font-family="Georgia, serif" font-size="230" font-weight="700" text-anchor="middle" fill="#1f2328">Ci</text>
+</svg>
